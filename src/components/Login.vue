@@ -40,7 +40,6 @@ const login = () => {
         登录
       </el-button>
 
-      <p class="tips">默认用户名：JFRX，默认密码：120120</p>
     </div>
   </div>
 </template>
